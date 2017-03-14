@@ -1,0 +1,18 @@
+PODS:
+  - Aspects (1.4.1)
+  - HandyFrame (1.1.2)
+  - JLRoutes (2.0.1)
+
+DEPENDENCIES:
+  - Aspects
+  - HandyFrame
+  - JLRoutes
+
+SPEC CHECKSUMS:
+  Aspects: 7595ba96a6727a58ebcbfc954497fc5d2fdde546
+  HandyFrame: d505faced4d4fb820d66bd88b654dbf7b88da424
+  JLRoutes: 3652abe3b4ac51bc93ec3a371353d762e8566092
+
+PODFILE CHECKSUM: cb56df9066eb5300112145d4a91ef4e79b4f5795
+
+COCOAPODS: 1.2.0
